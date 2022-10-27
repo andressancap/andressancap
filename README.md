@@ -5,7 +5,11 @@
 - 📫 How to reach me: www.linkedin.com/in/andsandev
 - 💻 Code: Python, Javascript, Pl/Sql
 - 💽 Database: Oracle, PostgreSQL, MySQL, MongoDB, Redis
-- 🧰 Tools: React, Node, Docker, AWS
+- 🔧 Tools: React, Node, Docker, AWS
+- 📑 Academic Studies: 
+    - Master's Degree on Business Intelligence & Big Data
+    - Postgraduate Degree on Business Intelligence and Data Analysis
+    - Bachelor's Degree on Software Engineer, with specialty in data computing
 
 
 <!--
