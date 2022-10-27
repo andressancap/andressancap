@@ -1,4 +1,4 @@
-### Hi there I'm Andres Sanchez, Software Engineer👋
+### Hi there! I'm Andres Sanchez, Software Engineer👋
 
 - 🔭 I’m currently working on Grupo electrostocks as FullStack - DevOps Engineer
 - 🌱 I’m currently learning Smart Contracts on Solidity and dApps develop
