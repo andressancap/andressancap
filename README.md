@@ -1,6 +1,6 @@
 ### Hi there! I'm Andres Sanchez, Software Engineer👋
 
-- 🔭 I’m currently working on Grupo electrostocks as FullStack - DevOps Engineer
+- 🔭 I’m currently working on Grupo electrostocks as FullStack Engineer
 - 🌱 I’m currently learning Smart Contracts on Solidity and dApps develop
 - 📫 How to reach me: www.linkedin.com/in/andsandev
 - 💻 Code: Python, Javascript, Pl/Sql
