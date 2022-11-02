@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Grupo electrostocks as FullStack Engineer
 - 🌱 I’m currently learning Smart Contracts on Solidity and dApps develop
 - 📫 How to reach me: www.linkedin.com/in/andsandev
-- 💻 Code: Python, Javascript, Pl/Sql
+- 💻 Code: Python, Javascript, PL/SQL
 - 💽 Database: Oracle, PostgreSQL, MySQL, MongoDB, Redis
 - 🔧 Tools: React, Node, Docker, AWS
 
